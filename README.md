@@ -90,7 +90,7 @@ sales-performance-dashboard/
 
 ## 📥 How to Use
 
-1. Download the `.pbix` file (if uploaded)
+1. Download the `.pbix` file 
 2. Open in **Power BI Desktop**
 3. Interact with filters and visuals
 
